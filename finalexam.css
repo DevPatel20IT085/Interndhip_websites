@@ -1,0 +1,379 @@
+.p1 {
+  color: antiquewhite;
+  text-align: center;
+  /* background-image: url("../Internship/fashion/fashion1.jpg"); */
+  padding: 0px;
+  margin: auto;
+  height: 300px;
+  background-image: url(../Internship/fashion/fashion1.jpg);
+  height: 500px;
+  opacity: 0.8;
+}
+
+.title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -90%);
+  font-size: 18px;
+
+}
+
+
+.tbar {
+  height: 60px;
+}
+
+.tbar ul {
+  margin: auto;
+  color: white;
+}
+
+.tbar li {
+  display: inline;
+}
+
+.tbar li a {
+  margin: 15px;
+}
+
+.button {
+  background-color: #f87b07;
+  color: white;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.header ul {
+  padding: 20px;
+  margin: 0px;
+  background-color: #f87b07;
+  color: antiquewhite;
+}
+
+.header li {
+  display: inline;
+}
+
+.header li a {
+  margin: 35px;
+}
+
+.welcome h1 {
+  text-align: center;
+}
+
+.welcome {
+  text-align: center;
+}
+
+.hexa {
+  display: flex;
+  justify-content: center;
+}
+
+.a1 {
+  margin: 10px;
+  text-align: center;
+}
+
+.b1 {
+  font-size: large;
+  text-align: center;
+}
+
+.image1 {
+  background-color: rgb(211, 210, 210);
+  text-align: center;
+  padding: 10px;
+}
+
+.button {
+  background-color: orangered;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 10px;
+  cursor: pointer;
+}
+
+.button2 {
+  background-color: white
+}
+
+.button3 {
+  background-color: white
+}
+
+.button4 {
+  background-color: white
+}
+
+.button5 {
+  background-color: white
+}
+
+.container1 {
+  text-align: center;
+  width: 80%;
+  height: 300px;
+  display: flex;
+}
+
+.container3 {
+  /* padding: 15px 130px; */
+  text-align: center;
+  width: 80%;
+  height: 200px;
+  display: flex;
+}
+
+.container-3 {
+  width: 25%;
+  padding: 15px 0 0 13px;
+}
+
+.container_3 {
+  width: 75%;
+  padding: 15px 0 0 0;
+}
+
+.container4 {
+  padding: 0px 130px;
+  text-align: center;
+  width: 80%;
+  height: 300px;
+}
+
+.container2 {
+  width: 25%;
+}
+
+.container_1 {
+  width: 75%;
+}
+
+.container5 {
+  display: flex;
+  justify-content: center;
+  padding: 15px 0;
+}
+
+.container6 {
+  display: flex;
+  justify-content: center;
+  padding: 15px 0;
+}
+
+.f1 {
+  padding: 0 15px;
+}
+
+
+.f2 {
+  padding: 0 15px;
+}
+
+.heavy {
+  display: flex;
+  justify-content: center;
+}
+
+.container7 {
+  display: flex;
+  /* padding: 0px 135px; */
+  text-align: center;
+  /* width: 80%; */
+  height: 300px;
+}
+
+.f3 {
+  padding: 0 0 0 0;
+}
+
+.orange {
+  width: 100%;
+  height: 210px;
+  background-color: #f87b07;
+  text-align: center;
+}
+
+.center2 {
+  padding: 22px;
+}
+
+.button {
+  background-color: white;
+  color: orangered;
+  padding: 10px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.button7 {
+  width: 45%;
+}
+
+.button8 {
+  border-color: white;
+  background: transparent;
+  color: white;
+  width: 10%;
+  height: 40px;
+  margin: 10px 0;
+}
+
+.back1 {
+  width: 100%;
+  height: 550px;
+  background: url("../Internship/fashion/background1.jpg");
+  color: white;
+  padding: 25px 0;
+}
+
+.form {
+  width: 100%;
+  height: 450px;
+  background-color: rgb(211, 210, 210);
+  padding: 25px 0;
+}
+
+.form1 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  height: 200px;
+}
+
+.w1 {
+  padding: 0 0 0 40px;
+  width: 40%;
+  float: left;
+  height: 200px;
+}
+
+#NA {
+  font-size: 22px;
+  height: 30px;
+  margin: 10px 0;
+}
+
+#EM {
+  font-size: 22px;
+  height: 30px;
+  margin: 10px 0;
+}
+
+#SU {
+  font-size: 22px;
+  height: 30px;
+  margin: 10px 0;
+}
+
+.w2 {
+  width: 35%;
+  float: right;
+  height: 200px;
+  /* padding: 0 110px 0 0; */
+}
+
+#DES {
+  font-size: 22px;
+  height: 142px;
+  width: 430px;
+  margin: 10px 0;
+}
+
+.bb1 {
+  width: 100%;
+  text-align: center;
+  padding: 0 0 0 10px;
+}
+
+.button9 {
+  width: 60%;
+  text-align: center;
+  background-color: #f87b07;
+  color: white;
+  height: 47px;
+}
+
+.footer {
+  height: 400px;
+  width: 100%;
+}
+
+.z1 {
+  text-align: center;
+  height: 200px;
+}
+
+.z2 {
+  text-align: center;
+  background-color: #f87b07;
+  height: 200px;
+  color: white;
+}
+
+.center3 {
+  padding: 5px 0;
+}
+
+.center4 {
+  padding: 5px 0;
+  color: white;
+}
+
+@media only screen and (max-width: 1024px) {
+
+  .p1,
+  .tbar,
+  .title {
+    width: 100%;
+  }
+
+  .uuu {
+    font-size: 35.5px;
+  }
+
+  .title {
+    transform: translate(-50%, -20%);
+  }
+}
+
+@media only screen and (max-width: 768px) {
+
+  .p1,
+  .tbar,
+  .title {
+    width: 100%;
+  }
+
+  .title {
+    transform: translate(-50%, -90%);
+  }
+}
+
+@media only screen and (max-width: 420px) {
+
+  .p1,
+  .tbar,
+  .title {
+    width: 100%;
+  }
+
+  .title {
+    transform: translate(-50%, -180%);
+  }
+}
