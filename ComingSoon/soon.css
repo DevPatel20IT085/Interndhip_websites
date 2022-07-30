@@ -1,0 +1,92 @@
+body {
+    background-image: url(../comingsoon/back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.p1 {
+    text-transform: uppercase;
+    text-shadow: -5px 0px 0px #bec2c7;
+    color: black;
+    letter-spacing: -0.05em;
+    font-family: 'Anton', Arial, sans-serif;
+    font-size: 40px;
+    transition: all 0.25s ease-out;
+    text-align: center;
+}
+
+.p1:hover {
+    text-shadow: -16px 6px 15px #ced0d3;
+}
+
+.p2 {
+    font-size: 40px;
+    font-family: cursive;
+    color: black;
+    text-align: center;
+}
+
+.p3 {
+    text-align: center;
+    font-size: 25px;
+}
+
+.count {
+    text-align: center;
+    width: 70%;
+    height: 200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.b1 {
+    height: 177px;
+    width: 19%;
+    font-weight: 700;
+    border: 12px solid rgb(75, 74, 73);
+    border-radius: 50%;
+}
+
+.button {
+    height: 100px;
+    margin: auto;
+    padding: 25px 0 0 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.c1 {
+
+    background-color: transparent;
+    border: 5px solid white;
+    width: 175px;
+    height: 60px;
+    font-size: 20px;
+    margin: 0 15px;
+    font-weight: 550;
+    cursor: pointer;
+
+}
+
+.icon {
+
+    height: 50px;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.i1{
+    text-align: center;
+    width:35px;
+    height:auto;
+    padding: 5px;
+    margin: 0 10px;
+    font-size: 30px;
+    border: 5px solid white;
+    cursor: pointer;
+}
